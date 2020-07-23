@@ -14,7 +14,7 @@ function preload(){
   characterImage=loadImage("character.jpg");
   monsterImage=loadImage("monster.png");
   villainImage=loadImage("villain.png");
-  aimImage=loadImage("aim.png");
+  aimImage=loadImage("aim.PNG");
 }
 function setup() {
   createCanvas(800,400);
